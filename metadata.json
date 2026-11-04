@@ -1,0 +1,11 @@
+{
+  "name": "FIXA - Cyberpunk AI Assistant",
+  "description": "Jarvis-inspired personal AI assistant with holographic face animations, voice control, autonomous call screening, deep research, and academic mentoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "notifications",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
